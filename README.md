@@ -1,6 +1,6 @@
-# Project Title
+# 1001 css samples
 
-One Paragraph of project description goes here
+A handy css sample archive
 
 ## Getting Started
 
