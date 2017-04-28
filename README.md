@@ -1,8 +1,8 @@
-# 1001 css samples
+# About
 
-A handy css sample archive
+This is a repository of a master course which includes master course materials for Web Development I (Introduction to web development with html, css and javascript). Tutors may fork this repository and use as a fundamental start.
 
-## Getting Started
+## Course
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
