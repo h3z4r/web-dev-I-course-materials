@@ -31,8 +31,11 @@ Introduction to computer science and programming
 This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 
 ```
-Week 01:
+Week 01: Introduction ato web development: Before, now, future; development environment
 ```
+Text Editor
+Web Browser
+Graphics Editor
 ```
 Week 02: HTML (Hypertext markup language)
 ```
