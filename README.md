@@ -55,7 +55,7 @@ Week 04:
 ```
 Week 05: Javascript: Objects
 ```
-Required: Objects contains properties. A property has a name and value.
+Required: Brendan Eich, Objects contains properties. A property has a name and value.
 
 Optional: 
 
