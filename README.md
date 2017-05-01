@@ -8,7 +8,7 @@ Below are the fundamental information about this course.
 
 ## Course
 
-Web Development II (Alternative: Advanced Web Development with Python)
+Web Development I (Alternative: Introduction to web develoment with html, css and javascript)
 
 ## Level
 
@@ -16,7 +16,7 @@ Undergraduate
 
 ## Course Description
 
-An advanced web development course in which students build their web applications using Python, Django, Django REST Framework and AngularJS.
+A beginner web development course in which students will learn the fundamentals of web development with html, css and javascript.
 
 ## Course requirements
 
@@ -24,15 +24,6 @@ You already took courses listed below:
 
 ```
 Introduction to computer science and programming
-```
-```
-Operating Systems (with Linux Fundamentals Assignments)
-```
-```
-Computer Networks
-```
-```
-Web Development I (Introduction to web development)
 ```
 
 #### Lectures
@@ -43,13 +34,13 @@ This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 Week 01:
 ```
 ```
-Week 02:
+Week 02: HTML (Hypertext markup language)
 ```
 ```
 Week 02:
 ```
 ```
-Week 03:
+Week 03: CSS (Cascading style-sheets)
 ```
 ```
 Week 04:
