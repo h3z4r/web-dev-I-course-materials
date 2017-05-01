@@ -59,6 +59,10 @@ Week 05: Javascript: Objects
 ```
 Objects contains properties. A property has a name and value.
 
+**Bookmarks:** 
+
+- JavaScript | MDN - Mozilla Developer Network
+- JavaScript - Learn web development | MDN
 
 And repeat
 
