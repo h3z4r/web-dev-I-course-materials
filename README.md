@@ -31,27 +31,33 @@ Introduction to computer science and programming
 This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 
 ```
-Week 01: Introduction ato web development: Before, now, future; development environment
+Week 01: Introduction to web development
 ```
-Text Editor
-Web Browser
-Graphics Editor
+Required: computer, computer networks, internet, web, browsers, server, linux, html, css, javascript, php, python
+
+Optional: internet before web
 ```
 Week 02: HTML (Hypertext markup language)
 ```
+Required: Tim Bernes-Lee, W3C, CERN, first website
+
+Optional:  
 ```
 Week 02:
 ```
 ```
 Week 03: CSS (Cascading style-sheets)
 ```
+Required: inline, external
 ```
 Week 04:
 ```
 ```
 Week 05: Javascript: Objects
 ```
-Objects contains properties. A property has a name and value.
+Required: Objects contains properties. A property has a name and value.
+
+Optional: 
 
 **Bookmarks:** 
 
