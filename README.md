@@ -1,28 +1,64 @@
-# About
+![alt text](http://m.inoglu-gruppe.de/wp-content/uploads/2017/04/001_intro.png)
 
-This is a repository of a master course which includes master course materials for Web Development I (Introduction to web development with html, css and javascript). Tutors may fork this repository and use as a fundamental start.
+# Project Description
+This repository is created for tutors who are planning to teach web development course and include fundamental course materials. Tutors can clone this repository and edit it for their needs.
+
+# Course Description
+Below are the fundamental information about this course.
 
 ## Course
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Web Development II (Alternative: Advanced Web Development with Python)
 
-### Prerequisites
+## Level
 
-What things you need to install the software and how to install them
+Undergraduate
 
-```
-Give examples
-```
+## Course Description
 
-### Installing
+An advanced web development course in which students build their web applications using Python, Django, Django REST Framework and AngularJS.
 
-A step by step series of examples that tell you have to get a development env running
+## Course requirements
 
-Say what the step will be
+You already took courses listed below:
 
 ```
-Give the example
+Introduction to computer science and programming
 ```
+```
+Operating Systems (with Linux Fundamentals Assignments)
+```
+```
+Computer Networks
+```
+```
+Web Development I (Introduction to web development)
+```
+
+#### Lectures
+
+This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
+
+```
+Week 01:
+```
+```
+Week 02:
+```
+```
+Week 02:
+```
+```
+Week 03:
+```
+```
+Week 04:
+```
+```
+Week 05: Javascript: Objects
+```
+Objects contains properties. A property has a name and value.
+
 
 And repeat
 
@@ -85,3 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
