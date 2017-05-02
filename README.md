@@ -45,12 +45,19 @@ Optional:
 
 **Bookmarks:**
 
-W3C https://www.w3.org/html/
+W3C https://www.w3.org/html/ (Reference)
 
-The W3C Markup Validation Service https://validator.w3.org/
+The W3C Markup Validation Service https://validator.w3.org/ (Tool: Code Valdidator)
 
-HTML | MDN - Mozilla Developer Network https://developer.mozilla.org/en-US/docs/Web/HTML
+HTML | MDN - Mozilla Developer Network https://developer.mozilla.org/en-US/docs/Web/HTML (Reference)
 
+Stackoverflow https://stackoverflow.com/questions/tagged/html (Tool: Q&A)
+
+Firebug http://getfirebug.com/html (Tool: Browser Plugin)
+
+Foundation http://foundation.zurb.com/ (Tool: Framework)
+
+Bootstrap http://getbootstrap.com (Tool: Framework)
 
 
 ```
