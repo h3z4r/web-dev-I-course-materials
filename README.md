@@ -42,6 +42,17 @@ Week 02: HTML (Hypertext markup language)
 Required: Tim Bernes-Lee, W3C, CERN, first website
 
 Optional:  
+
+**Bookmarks:**
+
+W3C https://www.w3.org/html/
+
+The W3C Markup Validation Service https://validator.w3.org/
+
+HTML | MDN - Mozilla Developer Network https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
+
 ```
 Week 02:
 ```
