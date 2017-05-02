@@ -23,7 +23,7 @@ A beginner web development course in which students will learn the fundamentals 
 You already took courses listed below:
 
 ```
-Introduction to computer science and programming
+**Introduction to computer science and programming**
 ```
 
 ## Lectures
