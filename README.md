@@ -30,21 +30,21 @@ You already took courses listed below:
 
 This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 
+--------------------------------
+
 ```
 Week 01: Introduction to web development
 ```
 
---------------------------------
+
 
 - **Lecture 01: Theory of web development**
 
-History of web development starting with history of internet (Vincent Cerf), world wide web (Tim Berners-Lee, CERN), W3C, html, css and javascript. Web in 90s, 00s and 2010s. Software development communities and web development community.
+History of web development starting with history of internet (Vincent Cerf), world wide web (Tim Berners-Lee, CERN), W3C, html, css and javascript. Internet before web, web in 90s, 00s and 2010s. Software development communities and web development community. Possible scenarios: Personal Blog, Corporate Website, Business Application, Platform. 
 
 - **Lecture 02: Getting started with web development**
 
-A close look at the different areas of web development beginning with project management with agile methodology, product management spesific to web based products, user experience design with sketches and wireframes, user interface design with image editing software, 
-
---------------------------------
+A close look at the different areas of web development beginning with project management with agile methodology, product management spesific to web based products, user experience design with sketches and wireframes, user interface design with image editing software, system administration and setting the development environment, -finally- front-end web development with html, css and javascript, a short introduction to back end development and database modeling. Next week we will dive into front end web development.
 
 People: Tim Berners-Lee, Vincent Cerf, Bill Gates, Linus Torwalds
 
@@ -55,6 +55,9 @@ Events: WWW Paper Publication
 Required: computer, computer networks, internet, web, browsers, server, linux, html, css, javascript, php, python
 
 Optional: internet before web
+
+--------------------------------
+
 ```
 Week 02: HTML (Hypertext markup language)
 ```
@@ -89,6 +92,7 @@ Foundation http://foundation.zurb.com/ (Tool: Framework)
 
 Bootstrap http://getbootstrap.com (Tool: Framework)
 
+--------------------------------
 
 ```
 Week 03: CSS (Cascading style-sheets)
