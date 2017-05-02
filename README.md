@@ -26,19 +26,41 @@ You already took courses listed below:
 Introduction to computer science and programming
 ```
 
-#### Lectures
+## Lectures
 
 This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 
 ```
 Week 01: Introduction to web development
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: Tim Berners-Lee, Vincent Cerf, Bill Gates, Linus Torwalds
+
+Organizations: W3, Microsoft, Linux Foundation
+
+Events: WWW Paper Publication
+
 Required: computer, computer networks, internet, web, browsers, server, linux, html, css, javascript, php, python
 
 Optional: internet before web
 ```
 Week 02: HTML (Hypertext markup language)
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
 Required: Tim Bernes-Lee, W3C, CERN, first website
 
 Optional:  
@@ -61,18 +83,49 @@ Bootstrap http://getbootstrap.com (Tool: Framework)
 
 
 ```
-Week 02:
-```
-```
 Week 03: CSS (Cascading style-sheets)
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
 Required: inline, external
+
 ```
 Week 04:
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
 ```
 Week 05: Javascript: Objects
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
 Required: Brendan Eich, Objects contains properties. A property has a name and value.
 
 Optional: 
@@ -85,8 +138,47 @@ Optional:
 And repeat
 
 ```
-until finished
+Week 06
 ```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
+```
+Week 07
+```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
+```
+Week 08
+```
+
+- Lecture 01
+
+- Lecture 02
+
+People: 
+
+Organizations:
+
+Events: 
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
