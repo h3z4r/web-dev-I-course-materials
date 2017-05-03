@@ -62,17 +62,17 @@ Optional: internet before web
 Week 02: HTML (Hypertext markup language)
 ```
 
-- Lecture 01
+- Lecture 01: What is HTML? Fundamental components of html.
 
-- Lecture 02
+- Lecture 02: HTML samples
 
-People: 
+People: Tim Bernes-Lee, 
 
-Organizations:
+Organizations:W3C, CERN
 
-Events: 
+Events: 1989 Publication (paper)
 
-Required: Tim Bernes-Lee, W3C, CERN, first website
+Required: first website
 
 Optional:  
 
@@ -98,9 +98,9 @@ Bootstrap http://getbootstrap.com (Tool: Framework)
 Week 03: CSS (Cascading style-sheets)
 ```
 
-- Lecture 01
+- Lecture 01: What is CSS?
 
-- Lecture 02
+- Lecture 02: CSS Samples
 
 People: 
 
@@ -116,9 +116,9 @@ Required: inline, external
 Week 04:
 ```
 
-- Lecture 01
+- Lecture 01: Dive into CSS
 
-- Lecture 02
+- Lecture 02: Frameworks
 
 People: 
 
@@ -129,10 +129,10 @@ Events:
 --------------------------------
 
 ```
-Week 05: Javascript: Objects
+Week 05: Javascript
 ```
 
-- Lecture 01
+- Lecture 01: What is JavaScript?
 
 - Lecture 02
 
