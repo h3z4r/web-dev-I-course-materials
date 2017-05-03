@@ -110,6 +110,8 @@ Events:
 
 Required: inline, external
 
+--------------------------------
+
 ```
 Week 04:
 ```
@@ -123,6 +125,8 @@ People:
 Organizations:
 
 Events: 
+
+--------------------------------
 
 ```
 Week 05: Javascript: Objects
@@ -147,7 +151,7 @@ Optional:
 - JavaScript | MDN - Mozilla Developer Network
 - JavaScript - Learn web development | MDN
 
-And repeat
+--------------------------------
 
 ```
 Week 06
@@ -163,6 +167,8 @@ Organizations:
 
 Events: 
 
+--------------------------------
+
 ```
 Week 07
 ```
@@ -176,6 +182,8 @@ People:
 Organizations:
 
 Events: 
+
+--------------------------------
 
 ```
 Week 08
@@ -191,8 +199,8 @@ Organizations:
 
 Events: 
 
+--------------------------------
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
