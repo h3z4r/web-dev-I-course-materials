@@ -100,6 +100,8 @@ Week 03: CSS (Cascading style-sheets)
 
 - Lecture 01: What is CSS?
 
+History of CSS.
+
 - Lecture 02: CSS Samples
 
 People: 
@@ -109,6 +111,14 @@ Organizations:
 Events: 
 
 Required: inline, external
+
+Cascading Style Sheets - W3C https://www.w3.org/Style/CSS/Overview.en.html
+
+Stackoverflow http://stackoverflow.com/questions/tagged/css
+
+Developer Mozilla https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Bootstrap http://getbootstrap.com/css/
 
 --------------------------------
 
