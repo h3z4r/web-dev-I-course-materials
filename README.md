@@ -36,8 +36,6 @@ This course will take 15 weeks and 30 lectures (1,5 hours/session) to complete
 Week 01: Introduction to web development
 ```
 
-
-
 - **Lecture 01: Theory of web development**
 
 History of web development starting with history of internet (Vincent Cerf), world wide web (Tim Berners-Lee, CERN), W3C, html, css and javascript. Internet before web, web in 90s, 00s and 2010s. Software development communities and web development community. Possible scenarios: Personal Blog, Corporate Website, Business Application, Platform. 
@@ -100,11 +98,11 @@ Week 03: CSS (Cascading style-sheets)
 
 - Lecture 01: What is CSS?
 
-History of CSS.
+What is a style sheet? History of CSS. What is new in CSS3?
 
 - Lecture 02: CSS Samples
 
-People: 
+People: Lee
 
 Organizations:
 
@@ -128,7 +126,7 @@ Week 04:
 
 - Lecture 01: Dive into CSS
 
-- Lecture 02: Frameworks
+- Lecture 02: Frameworks: Foundation, Bootsrap
 
 People: 
 
