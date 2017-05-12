@@ -224,11 +224,3 @@ Give an example
 
 
 ## Authors
-
-
-## License
-
-
-## Acknowledgments
-
-
