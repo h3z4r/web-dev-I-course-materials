@@ -213,14 +213,3 @@ Events:
 ```
 Give an example
 ```
-
-## Built With
-
-
-## Contributing
-
-
-## Versioning
-
-
-## Authors
