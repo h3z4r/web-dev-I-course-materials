@@ -162,16 +162,16 @@ Optional:
 --------------------------------
 
 ```
-Week 06
+Week 06: Content Management Systems
 ```
 
-- Lecture 01
+- Lecture 01 - Introduction to content management systems: Wordpress, Typo3
 
-- Lecture 02
+- Lecture 02 - Wordpress
 
 People: 
 
-Organizations:
+Organizations: wordpress.org
 
 Events: 
 
